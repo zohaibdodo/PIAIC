@@ -1,0 +1,38 @@
+
+
+
+
+killerkoda.com
+
+
+ls -ls  will reflect total block size occupied in that folder.
+
+cd - to change your previous directory
+
+
+Camel Case or Snake case for file or programing naming convention.
+
+Airforshare for line sharing within same WIFI.
+
+Valid file names:
+-- -index.txt
+$hello
+
+grep linux dpkg.log
+grep -w "linux" dpkg.log # It will search for word
+grep -o "linux" dpkg.log # Only show filter contents
+grep -wo "linux" dpkg.log # with multiple switch.
+grep "linux" dpkg.log | 
+
+
+SU Command:
+
+su - root   #  it will switch with /root
+su root     #  
+
+stat        #  for statistics of folder 
+ls -l       # for listing 
+ln
+readlink 
+
+There will be no hardlink for directory
