@@ -1,0 +1,32 @@
+uptime
+uname -srv 
+find / -name "linux*" 
+whatis "df"
+df -hT
+df -hTx tmpfs (To exclude tmps fs)
+du /home/zohaib -sh (with summery and human readable)
+apt-cache search keyword
+
+Ctrl+r (reverse-i-search)
+
+info "Show online information"
+
+type -a pwd (Command/buildin/keyword)
+whereis 
+wc (line words total character)
+sed (Stream Editor for filtering and transforming text)
+sed (sed "s/world/fahad" xyz.txt)
+sed "s/world/zohaib/" xyz.txt > abc.txt (for new file)
+sed -i "s/world/zohaib/" xyz.txt (replace original file)
+sed "s/osama/akber/1" names.txt (Dirst occurance)
+sed "s/osama/akber/g" names.txt (global)
+cal
+cal -y 2020
+dd conv=ucase (for conversion upper case) Ctrl+dd
+dd if=xyz.txt of=zohaib.txt conv=ucase
+
+grep -n fahad names.txt (for line number)
+cut 
+
+
+copy text from one file to other file with dd command
