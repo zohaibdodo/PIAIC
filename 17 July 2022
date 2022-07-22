@@ -28,5 +28,6 @@ dd if=xyz.txt of=zohaib.txt conv=ucase
 grep -n fahad names.txt (for line number)
 cut 
 
+bc (Basic Calculator) use scale for number of digits
 
 copy text from one file to other file with dd command
