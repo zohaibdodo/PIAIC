@@ -1,6 +1,7 @@
-uptime
+uptime (-s since, -p pretty, -v version)
 uname -srv 
 find / -name "linux*" 
+find ./ -iname INTRO    #For case insensitive
 whatis "df"
 df -hT
 df -hTx tmpfs (To exclude tmps fs)
