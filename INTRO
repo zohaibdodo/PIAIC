@@ -1,16 +1,19 @@
+#To practice online
 
-
-
-
-killerkoda.com
+killerkoda.com 
 
 
 ls -ls  will reflect total block size occupied in that folder.
 
 cd - to change your previous directory
 
+Camel Case:
+FileNotFound
+ThisIsAString
 
-Camel Case or Snake case for file or programing naming convention.
+Snake Case:
+This_is_a_test_file
+
 
 Airforshare for line sharing within same WIFI.
 
@@ -36,5 +39,3 @@ ln
 readlink 
 
 There will be no hardlink for directory
-
-
